@@ -85,7 +85,6 @@ This helps identify which features have the most impact on heart disease likelih
 ## 🛠️ Installation & Setup  
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/yourusername/heart-disease-prediction.git
 cd heart-disease-prediction
 
@@ -97,10 +96,10 @@ venv\Scripts\activate      # For Windows
 ###3. Install dependencies
 pip install -r requirements.txt
 
-###4. Run the notebook
+Run the notebook
 Open heart_disease_prediction.ipynb in Jupyter Notebook or VS Code and run all cells.
 
-### Results Summary
+Results Summary
 
 -The dataset was analyzed and visualized to uncover relationships among key medical features.
 
@@ -122,3 +121,4 @@ Open heart_disease_prediction.ipynb in Jupyter Notebook or VS Code and run all c
 
 Nancy Gikandi
 📍 Geomatic Engineer| GIS analyst lover| Data Enthusiast | Aspiring Data Scientist
+
